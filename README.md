@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Manoel</h1>
-<h3 align="center">Python Backend Dev and Currently studying Systems Analysis & Development on University of Amazon (UNAMA)</h3>
+<h3 align="center">Python Backend Dev and Currently studying Systems Analysis & Development at University of Amazon (UNAMA)</h3>
 
 - 🔭 I’m currently working on [Todo-list](github.com/Parimba77/todo-list-cli)
 
