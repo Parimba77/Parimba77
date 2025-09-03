@@ -13,8 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- LinkedIn: www.linkedin.com/in/pedro-manoel-6534bb352
-- Instagram: https://www.instagram.com/pedrmnoel/
+    
+- [LinkedIn](www.linkedin.com/in/pedro-manoel-6534bb352)
+  
+- [Instagram](https://www.instagram.com/pedrmnoel/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
