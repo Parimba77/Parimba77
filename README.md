@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pedromanoel2007@gmail.com**
 
-- ⚡ Fun fact: **Currently studying to be a a back end dev with Python and get into a internship for experience, I love learn about new technologies and be curious.**
+- ⚡ Fun fact: **studying to be a a back end dev with Python and get into a internship for experience, I love learn about new technologies and be curious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
