@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **pedromanoel2007@gmail.com**
 
-- ⚡ Fun fact **Currently studying to be a a back end dev with Python and get into a internship for experience, I love learn about new technologies and be curious.**
+- ⚡ Fun fact: **Currently studying to be a a back end dev with Python and get into a internship for experience, I love learn about new technologies and be curious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/pedro-manoel-6534bb352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedromanoel" height="30" width="40" /></a>
-<a href="https://instagram.com/pedrmnoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrmnoel" height="30" width="40" /></a>
+- LinkedIn: www.linkedin.com/in/pedro-manoel-6534bb352
+- Instagram: https://www.instagram.com/pedrmnoel/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
