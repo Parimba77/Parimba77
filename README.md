@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Todo-list](github.com/Parimba77/todo-list-cli)
 
-- 🌱 I’m currently learning **Flask**
-
 - 👨‍💻 All of my projects are available at [github.com/Parimba77](github.com/Parimba77)
 
 - 📫 How to reach me **pedromanoel2007@gmail.com**
